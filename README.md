@@ -112,7 +112,7 @@ Full-stack stock analysis and portfolio management platform where users track ho
 
 ## Achievements & Activities
 
-- Selected **twice consecutively** for the **HPAIR Asia Conference** (Harvard College Project for Asian and International Relations), recognized for academic excellence, communication, and leadership.
+- Selected **thrice consecutively** for the **HPAIR Asia Conference** (Harvard College Project for Asian and International Relations), recognized for academic excellence, communication, and leadership.
 - Organizing Committee Member, University Sports Fest — managed event logistics and on-ground coordination.
 
 ---
