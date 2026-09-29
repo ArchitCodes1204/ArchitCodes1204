@@ -121,7 +121,7 @@ Full-stack stock analysis and portfolio management platform where users track ho
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-mamodiya-42514a221/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-portfolio-j38l.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archit.mamodiya2024@nst.rishihood.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-mamodiya) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://archit-portfolio-j38l.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archit.mamodiya2024@nst.rishihood.edu.in)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArchitCodes1204&color=2E9EF7&style=flat-square&label=Profile+Views)
 
